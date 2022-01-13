@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Barkın Kandıran.
+- 👀 I’m software engineer.
+- 📫 How to reach me : barkinkandiran@gmail.com
